@@ -1,2 +1,2 @@
-# Vision-Project
- **Handwriting recognition is a computer vision**
+# Computer Vision-Project
+ **Handwritten Recognition of Arabic script**
